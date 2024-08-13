@@ -1,0 +1,18 @@
+school
+  name: HEI
+  creation: 2021
+  domaine: IT
+  nbStudents: 200
+  students:
+  -name: Annah
+  ref: STD23049
+  group:
+    name: J1
+    year: 2023
+    level: L1
+  -name: Nonie
+  ref: STD23000
+  group:
+    name: J1
+    year: 2023
+    level: L1
